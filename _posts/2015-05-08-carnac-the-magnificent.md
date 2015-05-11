@@ -159,7 +159,7 @@ const solutions = filterIterableWith(is100,
 
 ([es6fiddle](http://www.es6fiddle.net/i9hhvyp0/))
 
-Again, this highlights a ceratin way of thinking about the problem, that of viewing it as a pipeline of operations on iterable collections: Recursively generate all the expressions, and filter for those that sum to `100`.
+Again, this highlights a certain way of thinking about the problem, that of viewing it as a pipeline of operations on iterable collections: Recursively generate all the expressions, and filter for those that sum to `100`.
 
 Beyond proving that a candidate knows how to write things recursively, or with iterators, or both... Why are either of these better? When are they better? For which interviewers are these better?
 
